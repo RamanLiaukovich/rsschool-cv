@@ -1,0 +1,39 @@
+p {
+    max-width: 1024px;
+    text-align: center;
+    margin: 0 25% 0 25%;
+   
+    
+}
+
+h1 {
+    font-family: "century gothic";
+    font-size: 30px;
+    font-weight: bold;
+    max-width: 1024px;
+    text-align: center;
+    margin: 0 25% 0 25%;
+}
+
+ul {
+    font-family: "century gothic";
+    font-size: 24px;
+    max-width: 1024px;
+    margin: 30px 25% 30px 25%;
+}
+
+.goal {
+    font-family: "century gothic";
+    text-align: center;
+    font-size: 24px;
+    max-width: 1024px;
+    margin: 30px 25% 30px 25%;
+}
+
+footer {
+    font-family: "century gothic";
+    text-align: center;
+    font-size: 24px;
+    max-width: 1024px;
+    margin: 30px 25% 30px 25%;
+}
